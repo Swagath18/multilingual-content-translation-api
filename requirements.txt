@@ -8,3 +8,5 @@ langchain
 pypdf2
 uvicorn
 python-dotenv
+io
+bs4
