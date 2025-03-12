@@ -1,0 +1,10 @@
+streamlit
+fastapi
+openai
+requests
+python-pptx
+beautifulsoup4
+langchain
+pypdf2
+uvicorn
+python-dotenv

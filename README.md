@@ -1,4 +1,4 @@
-# File Translation Service with AI (PDF, PPT, TXT, HTML)
+# Multilingual-Content-Translation-API (PDF, PPT, TXT, HTML)
 
 ## Overview
 This project provides a file translation service that translates text content from various file types (PDF, PPT/PPTX, TXT, HTML) into different languages. The system consists of a **Streamlit** frontend for user interaction and a **FastAPI** backend for processing file uploads, text extraction, and translations using the OpenAI API.
