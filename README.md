@@ -67,6 +67,8 @@ pypdf2
 uvicorn
 python-dotenv
 python-multipart
+io
+bs4
 ```
 
 ### Environment Variables
