@@ -3,6 +3,9 @@
 ## Overview
 This project provides a file translation service that translates text content from various file types (PDF, PPT/PPTX, TXT, HTML) into different languages. The system consists of a **Streamlit** frontend for user interaction and a **FastAPI** backend for processing file uploads, text extraction, and translations using the OpenAI API.
 
+## Workflow
+![Alt Text](Multi_translation.png)
+
 ### Features
 - **File Upload**: Supports uploading files of types PDF, PPT/PPTX, TXT, and HTML.
 - **Language Selection**: Users can select a target language from a predefined list or type a custom language.
