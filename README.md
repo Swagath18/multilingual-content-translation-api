@@ -13,7 +13,8 @@ This project provides a file translation service that translates text content fr
 - **Translation**: Uses OpenAI's GPT model to translate extracted text into the target language.
 - **Real-time Output**: Displays translated text in the Streamlit interface.
 - **Modular Structure**: Organized into a frontend (`app.py`) and backend (`backend/` directory) for scalability and maintainability.
-
+  
+### UI
 ![Streamlit App UI](Translator_UI.png)
 
 ## Tech Stack
